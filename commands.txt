@@ -14,3 +14,7 @@ git log -- it is used to show all the logs
 
 git log --oneline -- it is used to show the all the commits in the single line.
 
+git clone --- clone the repo from the github 
+
+git remote -v --> to check the orgin of the repo 
+
