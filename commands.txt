@@ -1,0 +1,16 @@
+-------Git cmds practise------
+
+git init -- this cmd is used to initize the repo
+
+git status -- it is used to check the status or changes happening in the version control system.
+
+git add -- it is used to add the untract files to include in what will be in the commited.
+
+git restore -- it is used to restore the files which is deleted from the file directory only commit one.
+
+git commit -- it is used to commit the changes in the verison control system
+
+git log -- it is used to show all the logs
+
+git log --oneline -- it is used to show the all the commits in the single line.
+
